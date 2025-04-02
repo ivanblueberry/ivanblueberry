@@ -1,83 +1,15 @@
-<h1 align="center"><b>Hola, soy Francisco Torres </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+# 💫 About Me:
+👨‍💻<br>¡Hola! 👋 Soy Francisco Torres, estudiante de Sexto Semestre de Ciencias de la Computación. Me apasiona el Desarrollo Front-End y el Diseño UI/UX.<br><br>💻 Tecnologías y herramientas<br>Actualmente, estoy profundizando mis conocimientos en HTML, CSS, JavaScript, y planeo aprender Angular o React pronto. He trabajado con Java, C, Python y PHP. Además, tengo experiencia utilizando Figma, Photoshop, Illustrator, Git, GitHub, Bash y MySQL. <br><br>🔥 Proyectos actuales<br>Estoy desarrollando un reproductor de música responsive desde cero junto con mi equipo en la materia de Desarrollo de Aplicaciones Web. Puedes revisar mi contribución en mi repositorio de GitHub.<br><br>🎯 Motivación y objetivos<br>Lo que me impulsa a programar es la posibilidad de crear herramientas útiles para la comunidad. Me encantaría que mis repositorios sean valorados y utilizados por otros desarrolladores en GitHub, y recibir retroalimentación para seguir mejorando.<br><br>🎮 Hobbies y vida fuera del código<br>Además de programar, disfruto de los videojuegos y me gusta hacer running 🏃‍♂️. Corro aproximadamente 120 km al mes como parte de mi estilo de vida saludable.
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Bienvenido+a+mi+perfil!;Estudiante+de+Ingeniería;Apasionado+por+la+tecnología+y+la+IA;Desarrollador+Full-Stack;Siempre+aprendiendo+nuevas+tecnologías+🚀"></a>
-</p>
 
-<br>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ivan.torresflores.1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ivan_blueberry) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/francisco-torresfl) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@ivan_blueberry) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:francisco.ivantf@hotmail.com) 
 
-## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mí**
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ivanblueberry&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ivanblueberry&theme=blue_navy&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanblueberry&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
-- 🎓 Estudiante de Ingeniería en Ciencias de la Computación
-- 💻 Desarrollador Front-End con conocimientos de UI/UX
-- 🧠 Interesado en el Desarollo Móvil y la Inteligencia Artificial
-- 🚀 Trabajando en proyectos innovadores de desarrollo de software
-- 📫 Contáctame en [LinkedIn](https://linkedin.com/in/francisco-torresfl)
-
-<br><br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> **Habilidades**
-
-### Lenguajes de Programación:
-
-![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java%20-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-
-### Desarrollo Web:
-
-![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP%20-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
-### Bases de Datos:
-
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Herramientas y Software:
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-<br>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **Estadísticas de GitHub**
-
-<div align="center">
-  <a href="https://github.com/franciscotorres">
-    <img src="https://github-readme-stats.vercel.app/api?username=franciscotorres&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=franciscotorres&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="franciscotorres"/>
-  </a>
-</div>
-
-<br>
-
-## 🤝 **Conéctate conmigo**
-
-<div align='left'>
-<ul>
-<li>
-<a href="https://linkedin.com/in/francisco-torresfl" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<li>
-<a href="mailto:francisco.torresfl@hotmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-</ul>
-</div>
-
-<br>
-<div align='center'>
-
-## 🚀 ¡Gracias por visitar mi perfil!
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
